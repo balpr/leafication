@@ -13,6 +13,6 @@ Pengambilan foto pada daun belimbing wuluh dilakukan dari kamera smartphone bere
 background kertas putih dan pencahayaan yang cukup. Untuk merapikan background kami menggunakan aplikasi scanner sehingga background lebih bersih 
 dan lebih putih dari pengambilan gambar normal
 
-Total label : 2 label
+Jumlah label : 2 label
 
 Jumlah data tiap label : 50 data
